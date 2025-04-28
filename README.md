@@ -1,0 +1,1 @@
+# minicom2.7anzhuangbao
